@@ -1,0 +1,13 @@
+9
+C quickSort 31
+C mergeSort 40
+C burbuja 17
+C quickSort 8
+TC
+C heapSort 19
+C burbuja 1
+E mergeSort 6
+TC
+2
+C Ironman 3000
+TC
